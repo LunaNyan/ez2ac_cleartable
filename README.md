@@ -4,6 +4,8 @@
 # 어떻게 보면 되나요
 위에 보이는 md파일을 보면 됨
 
+모바일은 View Code 누르면 탐색기가 나옴
+
 5키온리는 only.md
 
 5키스탠은 standard.md
