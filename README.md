@@ -17,3 +17,12 @@
 - BErA까지만 존재하는 곡에 대해서는 BErA 1.02a의 판정 및 게이지(난이도 : 보통) 시스템을 기준으로 함
 - EV까지만 존재하는 곡에 대해서는 EV 2.02b의 판정 및 게이지(난이도 : 보통) 시스템을 기준으로 함
 - AE 오리지널, 미해금 EC, BErA 미만의 버전에서 플레이한 기록은 논외로 간주됨
+- 스크오토는 `SA`, 페달오토는 `PA`, 노오토 클리어는 `NA`로 표시 (평소 쌍오토 사용)
+
+# 버전 정보
+- 1.5st : 1st Tracks Special Edition
+- 7.1th : 7th TraX ver 1.5
+- 7.5th : 7th TraX ver 20
+- BE | 3S : 3S → BE 이식
+- EC ~ EV, EV Only : Cradle Edge 곡
+- NT + TT 동시수록은 NT로 취급함
