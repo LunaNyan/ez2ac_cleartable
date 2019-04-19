@@ -4,7 +4,7 @@
 - Keep On! `NT` `NA` : 6
 - Disease `AE` `NA` : 7
 - BEDLAM `EV` `NA` : 7
-- Sparkling Ways `EV` : 8
+- Sparkling Ways `EV` `NA` : 8
 ## 8
 - BEDLAM `EV` `NA` : 7
 ## 11
