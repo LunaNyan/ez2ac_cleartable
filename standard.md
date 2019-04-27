@@ -23,7 +23,7 @@
 - PRIME `NT` : 9
 - Ctrl + Alt + Del `TT` : 9
 ## 12
-- AntiDOT `EV` : 7
+- AntiDOT `EV` : 8
 - Y-Gate `3rd` : 9
 - 크리스마스의 기억 `NT` : 9
 - Doll's Garden `CV` : 9
@@ -32,27 +32,31 @@
 - Bluesy `EV Only` : 9
 - 크리스마스의 기억 `NT` : 9
 ## 13
-- Harpe For GAIA `EV` : 6
+- Harpe For GAIA `EV` : 7
 - DIEOXIN `1.5th` : 7
-- Toy War `TT | 7.0th` : 7
+- Toy War `TT | 7.0th` : 8
 - The Ashtray `AE` : 8
-- INFINITY `EV` : 8
-- 애인을 내려주세요 `NT` : 8
-- 설탕음모론 `NT` : 8
-- Makes Me Wonder `NT` : 8
-- Dreamy Flight `TT | 7.0th` : 8
+- INFINITY `EV` : 9
+- 애인을 내려주세요 `NT` : 9
+- 설탕음모론 `NT` : 9
+- Makes Me Wonder `NT` : 9
+- Dreamy Flight `TT | 7.0th` : 9
 - 빛바랜영혼 `TT | 7.0th` : 9
 - Blitzkrieg `EV` : 9
 ## 14
-- Your Mind `EV` : 4
-- LIGHTFALL `NT` : 5
-- Keep Your Passion `NT` : 5
-- Immortal `EV` : 7
-- 神威 `CV` : 8
+- Your Mind `EV` : 7
+- LIGHTFALL `NT` : 7
+- Keep Your Passion `NT` : 8
+- Immortal `EV` : 9
+- 神威 `CV` : 9
 - Keep On! `NT` : 9
 ## 15
-- Morgenglut 2012 `AE` : 6
-- Rebel Against `EV` : 7
-- The Greatest Escape `AE` : 7
+- A Site De La Rue `EC` : 6
+- INFINITY `EV` : 7
+- 설탕음모론 `NT` : 8
+- PRIME `NT` : 8
+- Morgenglut 2012 `AE` : 8
+- Rebel Against `EV` : 8
+- The Greatest Escape `AE` : 9
 # 7K
 NOT IMPLEMENTED
