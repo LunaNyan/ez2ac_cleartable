@@ -5,6 +5,7 @@
 - Disease `AE` `NA` : 7
 - BEDLAM `EV` `NA` : 7
 - Sparkling Ways `EV` `NA` : 8
+- M Police `3rd` `NA` : 8
 ## 8
 - BEDLAM `EV` `NA` : 7
 ## 11
@@ -45,13 +46,13 @@
 - Blitzkrieg `EV` : 9
 ## 14
 - Your Mind `EV` : 7
-- LIGHTFALL `NT` : 7
+- LIGHTFALL `NT` : 8
 - Keep Your Passion `NT` : 8
 - Immortal `EV` : 9
 - 神威 `CV` : 9
 - Keep On! `NT` : 9
 ## 15
-- A Site De La Rue `EC` : 6
+- A Site De La Rue `EC` : 전투력 측정기
 - INFINITY `EV` : 7
 - 설탕음모론 `NT` : 8
 - PRIME `NT` : 8
