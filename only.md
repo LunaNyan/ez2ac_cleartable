@@ -13,7 +13,7 @@
 - encounter on orbit `TT` : 9
 - 애인을 내려주세요 `NT` : 9
 # 15
-- Messier 333 : 1 (전투력 측정기)
+- Messier 333 `BE` : 1 (전투력 측정기)
 # CV2
 - LEVEL 1 - For The Top : 9
 - EXTRA STAGE 1~4 - NPTW : 9
