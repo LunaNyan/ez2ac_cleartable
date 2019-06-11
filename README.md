@@ -13,16 +13,19 @@
 클리어 확률 : 0 ~ 9 (0은 못깸, 9는 확클)
 
 # 준수사항
-- 판정 및 게이지 시스템은 TT 1.77을 기준으로 함
+- 판정 및 게이지 시스템은 FN 1.20을 기준으로 함
 - BErA까지만 존재하는 곡에 대해서는 BErA 1.02a의 판정 및 게이지(난이도 : 보통) 시스템을 기준으로 함
 - EV까지만 존재하는 곡에 대해서는 EV 2.02b의 판정 및 게이지(난이도 : 보통) 시스템을 기준으로 함
+- TT까지만 존재하는 곡에 대해서는 TT 1.83의 판정 및 게이지 시스템을 기준으로 함
 - AE 오리지널, 미해금 EC, BErA 미만의 버전에서 플레이한 기록은 논외로 간주됨
+- AEIC에서 플레이한 1st S/E 가요 라이센스 곡은 논외로 간주됨 (BErA에서 플레이한 기록만 취급)
 - 스크오토는 `SA`, 페달오토는 `PA`, 노오토 클리어는 `NA`로 표시 (평소 쌍오토 사용)
 
 # 버전 정보
-- 1.5st : 1st Tracks Special Edition
-- 7.1th : 7th TraX ver 1.5
-- 7.5th : 7th TraX ver 20
+- 1.5st : 1st Tracks Special Edition `EC에서 삭제`
+- 7.1th : 7th TraX ver 1.5 `AE에서 삭제 이후 FN에서 부활`
+- 7.5th : 7th TraX ver 2.0
 - BE | 3S : 3S → BE 이식
-- EC ~ EV, EV Only : Cradle Edge 곡
+- EC ~ EV, EV Only : Cradle Edge 곡 `NT에서 삭제`
+- NT ~ TT : HIGH5 라이센스 곡 `FN에서 삭제`
 - NT + TT 동시수록은 NT로 취급함
