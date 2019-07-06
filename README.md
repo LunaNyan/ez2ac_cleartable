@@ -20,6 +20,7 @@
 - AE 오리지널, 미해금 EC, BErA 미만의 버전에서 플레이한 기록은 논외로 간주됨
 - AEIC에서 플레이한 1st S/E 가요 라이센스 곡은 논외로 간주됨 (BErA에서 플레이한 기록만 취급)
 - 스크오토는 `SA`, 페달오토는 `PA`, 노오토 클리어는 `NA`로 표시 (평소 쌍오토 사용)
+- 10K, 14K는 노오토를 기본으로 함
 
 # 버전 정보
 - 1.5st : 1st Tracks Special Edition `EC에서 삭제`
@@ -29,3 +30,4 @@
 - EC ~ EV, EV Only : Cradle Edge 곡 `NT에서 삭제`
 - NT ~ TT : HIGH5 라이센스 곡 `FN에서 삭제`
 - NT + TT 동시수록은 NT로 취급함
+- NT ~ FN 동시수록은 NT로 취급함

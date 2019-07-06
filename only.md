@@ -9,18 +9,20 @@
 - Makes Me Wonder `NT` : 9
 - Sigma `EC` : 9
 - Forbidden Light `TT | FN` : 9
-- GEHENNA `NT | FN` : 8
+- GEHENNA `NT | FN` : 9
 # 14
 - BLEED `BE | 3S` : 9
 - encounter on orbit `TT` : 9
 - 애인을 내려주세요 `NT` : 9
 - INFINITY `EV` : 9
+- Last Knot `TT | FN` : 8
 - Scarlet Blaze `NT` : 7
 # 15
 - AntiDOT `EV` : 9
 - Repulse Stream(RAVEN@TION REMIX) `EV` : 9
-- La Grand Bleu `CV` : 7
-- Messier 333 `BE` : 3
+- La Grand Bleu `CV` : 8
+- Allegro Piu Mosso `FN` : 6
+- Messier 333 `BE` : 5
 # CV2
 - 1 - For The Top : 9
 - 3 - Step in the Dayz : 9
