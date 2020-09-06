@@ -1,28 +1,13 @@
-# 12
-- A Final Dreaming `BE` : 9
-- Return to Universe `BE | 3S` : 9
-- Sunlight `TT | 7th 1.0` : 9
-# 13
-- Orphan Children `EC` : 9
-- Blood Castle `CV` : 9
-- Morgenglut 2012 `AE` : 9
-- Makes Me Wonder `NT` : 9
-- Sigma `EC` : 9
-- Forbidden Light `TT | FN` : 9
-- GEHENNA `NT | FN` : 9
-# 14
-- BLEED `BE | 3S` : 9
-- encounter on orbit `TT` : 9
-- 애인을 내려주세요 `NT` : 9
-- INFINITY `EV` : 9
-- Last Knot `TT | FN` : 8
-- Scarlet Blaze `NT` : 7
-# 15
-- AntiDOT `EV` : 9
-- Repulse Stream(RAVEN@TION REMIX) `EV` : 9
-- La Grand Bleu `CV` : 8
-- Allegro Piu Mosso `FN` : 6
-- Messier 333 `BE` : 5
+# 17
+- The Ashtray `AE` : 8
+- INFINITY `EV` : 8
+- Dement ~After Legend~ `NT` : 7
+- Yog Sothoth `TT` : 7
+- Return To Universe `3S` : 7
+- picking `FNEX` : 6
+- Terminated Protocol `EV` : 6
+- BEDLAM `EV` : 3
+- 神威 `CV` : 1
 # CV2
 - 1 - For The Top : 9
 - 3 - Step in the Dayz : 9
